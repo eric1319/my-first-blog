@@ -1,0 +1,9 @@
+*.pyd
+*.bat
+*.dll
+*.exe
+*.ps1
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
